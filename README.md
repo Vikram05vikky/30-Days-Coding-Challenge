@@ -9,3 +9,8 @@ Day 1: 01/11/2023
 CodeChef - Zero Ones Equal One Zeros
 Coding Ninjas - First Missing Positive
 LeetCode - Array Partition
+
+Day 2: 02/11/2023 
+CodeChef - Dracula Eats
+Coding Ninjas - Zero Matrix
+LeetCode - Length of Last Word
