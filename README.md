@@ -14,3 +14,8 @@ Day 2: 02/11/2023
 CodeChef - Dracula Eats ||
 Coding Ninjas - Zero Matrix ||
 LeetCode - Length of Last Word ||
+
+Day 3: 03/11/2023
+CodeChef - Survival Time ||
+Coding Ninjas - Search in Rotated Sorted Array ||
+LeetCode - Valid Anagram ||
