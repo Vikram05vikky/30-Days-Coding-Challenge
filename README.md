@@ -19,3 +19,13 @@ Day 3: 03/11/2023
 CodeChef - Survival Time ||
 Coding Ninjas - Search in Rotated Sorted Array ||
 LeetCode - Valid Anagram ||
+
+Day 4: 04/11/2023
+CodeChef - Red Light, Green Light ||
+Coding Ninjas - Reverse vowels in a string ||
+LeetCode - Single Number ||
+
+Day 5: 05/11/2023
+CodeChef - First and Last ||
+Coding Ninjas - Valid Parenthesis ||
+LeetCode - Maximum Product of Three Numbers ||
