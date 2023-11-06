@@ -29,3 +29,9 @@ Day 5: 05/11/2023
 CodeChef - First and Last ||
 Coding Ninjas - Valid Parenthesis ||
 LeetCode - Maximum Product of Three Numbers ||
+
+Day 6: 06/11/2023
+CodeChef - Largest and Second Largest ||
+Coding Ninjas - Frog Jump ||
+LeetCode - Missing Number ||
+
