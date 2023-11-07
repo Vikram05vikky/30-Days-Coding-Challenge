@@ -35,3 +35,8 @@ CodeChef - Largest and Second Largest ||
 Coding Ninjas - Frog Jump ||
 LeetCode - Missing Number ||
 
+DAY 7: 07/11/2023
+CodeChef - Candies ||
+Coding Ninjas - Pair Sum ||
+LeetCode - Valid Mountain Array ||
+
