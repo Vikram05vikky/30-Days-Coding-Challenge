@@ -40,3 +40,7 @@ CodeChef - Candies ||
 Coding Ninjas - Pair Sum ||
 LeetCode - Valid Mountain Array ||
 
+DAY 8: 08/11/2023
+CodeChef - Lucky Four ||
+Coding Ninjas - Find the Single Number ||
+LeetCode - Two Sum ||
