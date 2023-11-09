@@ -44,3 +44,8 @@ DAY 8: 08/11/2023
 CodeChef - Lucky Four ||
 Coding Ninjas - Find the Single Number ||
 LeetCode - Two Sum ||
+
+DAY 9: 09/11/2023
+CodeChef - Flip the cards ||
+Coding Ninjas - First and Last Position of an Element In Sorted Array ||
+LeetCode - Sort Array By Parity II ||
