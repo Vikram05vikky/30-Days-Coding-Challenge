@@ -49,3 +49,8 @@ DAY 9: 09/11/2023
 CodeChef - Flip the cards ||
 Coding Ninjas - First and Last Position of an Element In Sorted Array ||
 LeetCode - Sort Array By Parity II ||
+
+Day 10:10/11/2023
+CodeChef - ||
+Coding Ninjas - ||
+LeetCode - ||
