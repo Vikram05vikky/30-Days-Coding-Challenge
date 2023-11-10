@@ -51,6 +51,6 @@ Coding Ninjas - First and Last Position of an Element In Sorted Array ||
 LeetCode - Sort Array By Parity II ||
 
 Day 10:10/11/2023
-CodeChef - ||
-Coding Ninjas - ||
-LeetCode - ||
+CodeChef - Circular Track ||
+Coding Ninjas - Reverse Words In A String ||
+LeetCode - Monotonic Array ||
