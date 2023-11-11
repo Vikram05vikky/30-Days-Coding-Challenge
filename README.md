@@ -59,3 +59,8 @@ DAY 11:11/11/2023
 CodeChef - World Chess Championship ||
 Coding Ninjas - Find Character Case ||
 LeetCode -  Array Nesting ||
+
+DAY 12:12/11/2023
+CodeChef - Penalty Shots ||
+Coding Ninjas - Encode the Message ||
+LeetCode - Shuffle the Array ||
