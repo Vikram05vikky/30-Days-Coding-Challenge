@@ -64,3 +64,8 @@ DAY 12:12/11/2023
 CodeChef - Penalty Shots ||
 Coding Ninjas - Encode the Message ||
 LeetCode - Shuffle the Array ||
+
+DAY 13:13/11/2023
+CodeChef - Chess Match ||
+Coding Ninjas - Print Like A Wave ||
+LeetCode -  Squares of a Sorted Array ||
