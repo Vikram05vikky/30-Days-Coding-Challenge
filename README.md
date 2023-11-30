@@ -69,3 +69,90 @@ DAY 13:13/11/2023
 CodeChef - Chess Match ||
 Coding Ninjas - Print Like A Wave ||
 LeetCode -  Squares of a Sorted Array ||
+
+DAY 14:14/11/2023
+CodeChef - Car Choice ||
+Coding Ninjas - Pascal's Triangle ||
+LeetCode -  Remove Duplicates from Sorted Array ||
+
+DAY 15:15/11/2023
+CodeChef - Factorial ||
+Coding Ninjas - Excel Sheet Part - 2 ||
+LeetCode - Longest Mountain in Array ||
+
+DAY 16:16/11/2023
+CodeChef - Chess Pairing ||
+Coding Ninjas - FlowerShop ||
+LeetCode - Sign of the Product of an Array ||
+
+DAY 17:17/11/2023
+CodeChef - Zero String ||
+Coding Ninjas - Insertion Sort ||
+LeetCode - Remove Element ||
+
+DAY 18:18/11/2023
+CodeChef - Olympics Ranking ||
+Coding Ninjas - Admission in Ninja Gram ||
+LeetCode - Longest Common Prefix ||
+
+DAY 19:19/11/2023
+CodeChef - Alternate Additions ||
+Coding Ninjas - 0 1 Knapsack ||
+LeetCode - Running Sum of 1d Array ||
+
+DAY 20:20/11/2023
+CodeChef - Existence ||
+Coding Ninjas - Spiral Matrix ||
+LeetCode - Palindrome Number ||
+
+DAY 21:21/11/2023
+CodeChef - Game between friends ||
+Coding Ninjas - Factorial of a Number ||
+LeetCode -  Reverse Bit ||
+
+DAY 22:22/11/2023
+CodeChef - Farmers League ||
+Coding Ninjas - Merge Two Sorted Arrays ||
+LeetCode - Happy Number ||
+
+DAY 23:23/11/2023
+CodeChef - Two Ranges ||
+Coding Ninjas - Merge Two Sorted Arrays ||
+LeetCode - Power of Two ||
+
+DAY 24:24/11/2023
+CodeChef - Marbles ||
+Coding Ninjas - Matrix Median ||
+LeetCode - Island Perimeter ||
+
+DAY 25:25/11/2023
+CodeChef - Gold Mining ||
+Coding Ninjas - Reverse Bits ||
+LeetCode - Arranging Coins ||
+
+DAY 26:26/11/2023
+CodeChef - Construct N ||
+Coding Ninjas - Median of two sorted arrays ||
+LeetCode - Concatenation of Array ||
+
+DAY 27:27/11/2023
+CodeChef - Back to Campus ||
+Coding Ninjas - Allocate Books ||
+LeetCode - Pelative Sort Array ||
+
+DAY 28:28/11/2023
+1.CodeChef - Nearest Court ||
+2.Coding Ninjas - Sum of even numbers till N ||
+3.LeetCode - Calculate Delayed Arrival Time ||
+
+DAY 29:29/11/2023
+1.CodeChef - Peaceful Party ||
+2.Coding Ninjas - Encode the Message ||
+3.LeetCode - XOR Operation in an Array ||
+
+DAY 30:30/11/2023
+CodeChef - DarkLight ||
+Coding Ninjas - 3Sum ||
+LeetCode - Decode XORed Array ||
+
+
